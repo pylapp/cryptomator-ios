@@ -1,3 +1,16 @@
+Disclaimer
+==========
+
+> [!CAUTION]
+> ( ˶°ㅁ°) !! **This is a fork of [cryptomator/ios](https://github.com/cryptomator/ios)**
+> 
+> The aim of this project is to submit evolutions.
+> This is not the official repository of the app.
+> You should not submit bug reports, issues or pull requests to this fork.
+> 
+> Last constributions from here:
+> - `Need to improve some french wordings` ([#408](https://github.com/cryptomator/ios/issues/408) [#409](https://github.com/cryptomator/ios/pull/409))
+
 # Cryptomator for iOS
 
 [![Build](https://github.com/cryptomator/ios/actions/workflows/build.yml/badge.svg)](https://github.com/cryptomator/ios/actions/workflows/build.yml)
